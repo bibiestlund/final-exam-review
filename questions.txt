@@ -1,0 +1,26 @@
+1. What are the 3 looping structures in C++?
+2. What is the syntax of the while statement?
+3. True or false? In C++ "while" is a reserved word.
+4. What is the purpose of the parentheses in a while statement?
+5. The body of the loop is called ______.
+6. What criteria must the statement meet to avoid an infinite loop?
+7. What controls a counter-controlled while loop?
+8. When do you initialize the counter in a counter controlled while loop?
+9. What is a sentinel?
+10. When does a sentinel controlled while loop end?
+11. When does and EOF while loop end?
+12. What does EOF mean
+13. What kind of loop does a for loop simplify?
+14. For is a reserved word. True or False?
+15. What is the syntax for a for loop?
+16. What is the statement called in a for loop?
+17. What is the End of File marker in the Windows environment?
+18. What is the End of File marker in the UNIX environment?
+19. What happens if there is a semicolon at the end of the for loop before the statement?
+20. What is the syntax of the do...while loop?
+21. Which loop structures are pretest loops and which are posttest loops?
+22. What is the difference between pretest and posttest loops?
+23. What doesa break statement do?
+24. What does a continue statement do in the body of a loop?
+25. How does a continue statement effect the expreshion update statement in a while or do...while loop?
+26. How does a continue statement effect the update statement in a for loop?
